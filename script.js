@@ -1,1 +1,3 @@
-console.log("Welcome to Ovi Ahmed's Website!");
+window.addEventListener("load", function(){
+    document.getElementById("loader").style.display = "none";
+});
